@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1, DANA_4
+http://206.190.151.78/stream/_ethiopia/videos/Dana%20Drama%20Season%204%20Episode%2058.mp4
+
+#EXTINF:-1, Ye birhan firma
+http://206.190.151.78/stream/_ethiopia/Ye%20birhan%20firma.mp4
+
+#EXTINF:-1, ebc 1
+blob:http://video.vixtream.net/ece92b7c-90fb-41a6-a6b0-baf65683481d
+
+#EXTINF:-1, wazama
+<iframe width="450" height="320" src="http://www.tewnet.com/embed.php?vid=6b308f4a8" frameborder="0" allowfullscreen seamless></iframe><p><a href="http://www.tewnet.com/watch.php?vid=6b308f4a8" target="_blank">Wazema - Season 2, Part 23 (Ethiopian Drama)</a></p>
