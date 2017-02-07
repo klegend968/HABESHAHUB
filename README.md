@@ -3,7 +3,7 @@ Media links habesha
 #EXTM3U
 
 #EXTINF:-1,Meleket
-http://www.tewnet.com/embed.php?vid=56c2fb4f0
+http://tewnet.com/9fcdb534-75e7-4118-8dc6-aaaac875dc36
 #EXTINF:-1,BN_Bein_Sport_1
 http://151.80.36.109:8000/live/test1/test1/188.ts
 #EXTINF:-1,BN_Bein_Sport_2
