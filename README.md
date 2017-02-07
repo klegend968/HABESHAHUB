@@ -2,7 +2,7 @@
 Media links habesha
 #EXTM3U
 
-#EXTINF:-1,Aleme
+#EXTINF:-1,Alem
 http://www.soderetube.com/2017/02/aleme-full-ethiopian-movie/
 #EXTINF:-1,BN_Bein_Sport_1
 http://151.80.36.109:8000/live/test1/test1/188.ts
